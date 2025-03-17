@@ -35,5 +35,5 @@ delete from table_name where condition
 -- delete from customers where age>=10
 
 --example
--- delete from customers where age>=10
+-- delete from customers where age>=19
 
