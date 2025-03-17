@@ -20,3 +20,8 @@ ALTER TABLE students DROP COLUMN age;
 -- alter table table_name rename column  column_name to new_column_name
 -- ALTER TABLE
 --   player RENAME COLUMN jersey_num TO jersey_number;
+
+--rename a column
+-- alter table table_name rename column  column_name to new_column_name
+-- ALTER TABLE
+--   player RENAME COLUMN jersey_num TO jersey_number;
