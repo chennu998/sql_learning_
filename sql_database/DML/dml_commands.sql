@@ -32,5 +32,5 @@ update student set email=concat(name,".",surname,year(dob),"@gmail.com")
 delete from table_name where condition
 
 --example
-delete from customers where age>=10
+-- delete from customers where age>=10
 
